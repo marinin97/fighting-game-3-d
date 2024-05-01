@@ -313,7 +313,7 @@ MonoBehaviour:
   verticalRayCount: 4
   collisionMask:
     serializedVersion: 2
-    m_Bits: 4294967295
+    m_Bits: 1
 --- !u!114 &3920262044624933351
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1407,15 +1407,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 841f817182d9d504c88d696580cc11ac, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0.004598707
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 841f817182d9d504c88d696580cc11ac, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.078999996
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 841f817182d9d504c88d696580cc11ac, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -0.012458682
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 841f817182d9d504c88d696580cc11ac, type: 3}
       propertyPath: m_LocalRotation.w

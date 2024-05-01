@@ -313,7 +313,7 @@ MonoBehaviour:
   verticalRayCount: 4
   collisionMask:
     serializedVersion: 2
-    m_Bits: 4294967295
+    m_Bits: 1
 --- !u!114 &3920262044624933351
 MonoBehaviour:
   m_ObjectHideFlags: 0

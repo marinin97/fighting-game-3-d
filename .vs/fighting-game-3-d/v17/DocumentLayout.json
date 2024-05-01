@@ -1,0 +1,346 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Git Hub \u043F\u0440\u0438\u043C\u0435\u0440\u044B\\fighting-game-3-d\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CC5A243-CAB4-AB76-44BD-F7A8BE45C769}|Assembly-CSharp.csproj|f:\\git hub \u043F\u0440\u0438\u043C\u0435\u0440\u044B\\fighting-game-3-d\\assets\\scripts\\menus\\buttonhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CC5A243-CAB4-AB76-44BD-F7A8BE45C769}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menus\\buttonhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CC5A243-CAB4-AB76-44BD-F7A8BE45C769}|Assembly-CSharp.csproj|f:\\git hub \u043F\u0440\u0438\u043C\u0435\u0440\u044B\\fighting-game-3-d\\assets\\scripts\\spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CC5A243-CAB4-AB76-44BD-F7A8BE45C769}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CC5A243-CAB4-AB76-44BD-F7A8BE45C769}|Assembly-CSharp.csproj|F:\\Git Hub \u043F\u0440\u0438\u043C\u0435\u0440\u044B\\fighting-game-3-d\\assets\\scripts\\simplecameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CC5A243-CAB4-AB76-44BD-F7A8BE45C769}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\simplecameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CC5A243-CAB4-AB76-44BD-F7A8BE45C769}|Assembly-CSharp.csproj|F:\\Git Hub \u043F\u0440\u0438\u043C\u0435\u0440\u044B\\fighting-game-3-d\\assets\\scripts\\shadow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CC5A243-CAB4-AB76-44BD-F7A8BE45C769}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\shadow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CC5A243-CAB4-AB76-44BD-F7A8BE45C769}|Assembly-CSharp.csproj|F:\\Git Hub \u043F\u0440\u0438\u043C\u0435\u0440\u044B\\fighting-game-3-d\\assets\\scripts\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CC5A243-CAB4-AB76-44BD-F7A8BE45C769}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CC5A243-CAB4-AB76-44BD-F7A8BE45C769}|Assembly-CSharp.csproj|F:\\Git Hub \u043F\u0440\u0438\u043C\u0435\u0440\u044B\\fighting-game-3-d\\assets\\scripts\\hitdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CC5A243-CAB4-AB76-44BD-F7A8BE45C769}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\hitdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CC5A243-CAB4-AB76-44BD-F7A8BE45C769}|Assembly-CSharp.csproj|F:\\Git Hub \u043F\u0440\u0438\u043C\u0435\u0440\u044B\\fighting-game-3-d\\assets\\scripts\\fightmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CC5A243-CAB4-AB76-44BD-F7A8BE45C769}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fightmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CC5A243-CAB4-AB76-44BD-F7A8BE45C769}|Assembly-CSharp.csproj|F:\\Git Hub \u043F\u0440\u0438\u043C\u0435\u0440\u044B\\fighting-game-3-d\\assets\\scripts\\despawnaftertime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CC5A243-CAB4-AB76-44BD-F7A8BE45C769}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\despawnaftertime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CC5A243-CAB4-AB76-44BD-F7A8BE45C769}|Assembly-CSharp.csproj|F:\\Git Hub \u043F\u0440\u0438\u043C\u0435\u0440\u044B\\fighting-game-3-d\\assets\\scripts\\controls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CC5A243-CAB4-AB76-44BD-F7A8BE45C769}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CC5A243-CAB4-AB76-44BD-F7A8BE45C769}|Assembly-CSharp.csproj|F:\\Git Hub \u043F\u0440\u0438\u043C\u0435\u0440\u044B\\fighting-game-3-d\\assets\\scripts\\controller2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CC5A243-CAB4-AB76-44BD-F7A8BE45C769}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\controller2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CC5A243-CAB4-AB76-44BD-F7A8BE45C769}|Assembly-CSharp.csproj|F:\\Git Hub \u043F\u0440\u0438\u043C\u0435\u0440\u044B\\fighting-game-3-d\\assets\\scripts\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CC5A243-CAB4-AB76-44BD-F7A8BE45C769}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CC5A243-CAB4-AB76-44BD-F7A8BE45C769}|Assembly-CSharp.csproj|F:\\Git Hub \u043F\u0440\u0438\u043C\u0435\u0440\u044B\\fighting-game-3-d\\assets\\scripts\\animatorspeedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CC5A243-CAB4-AB76-44BD-F7A8BE45C769}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\animatorspeedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CC5A243-CAB4-AB76-44BD-F7A8BE45C769}|Assembly-CSharp.csproj|F:\\Git Hub \u043F\u0440\u0438\u043C\u0435\u0440\u044B\\fighting-game-3-d\\assets\\scripts\\newfighter\\states\\falling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CC5A243-CAB4-AB76-44BD-F7A8BE45C769}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\newfighter\\states\\falling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CC5A243-CAB4-AB76-44BD-F7A8BE45C769}|Assembly-CSharp.csproj|F:\\Git Hub \u043F\u0440\u0438\u043C\u0435\u0440\u044B\\fighting-game-3-d\\assets\\scripts\\newfighter\\states\\attacking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CC5A243-CAB4-AB76-44BD-F7A8BE45C769}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\newfighter\\states\\attacking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CC5A243-CAB4-AB76-44BD-F7A8BE45C769}|Assembly-CSharp.csproj|F:\\Git Hub \u043F\u0440\u0438\u043C\u0435\u0440\u044B\\fighting-game-3-d\\assets\\scripts\\navmesh\\botmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CC5A243-CAB4-AB76-44BD-F7A8BE45C769}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\navmesh\\botmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CC5A243-CAB4-AB76-44BD-F7A8BE45C769}|Assembly-CSharp.csproj|F:\\Git Hub \u043F\u0440\u0438\u043C\u0435\u0440\u044B\\fighting-game-3-d\\assets\\scripts\\fighter\\throwdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CC5A243-CAB4-AB76-44BD-F7A8BE45C769}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fighter\\throwdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CC5A243-CAB4-AB76-44BD-F7A8BE45C769}|Assembly-CSharp.csproj|F:\\Git Hub \u043F\u0440\u0438\u043C\u0435\u0440\u044B\\fighting-game-3-d\\assets\\scripts\\fighter\\inputhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CC5A243-CAB4-AB76-44BD-F7A8BE45C769}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fighter\\inputhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CC5A243-CAB4-AB76-44BD-F7A8BE45C769}|Assembly-CSharp.csproj|F:\\Git Hub \u043F\u0440\u0438\u043C\u0435\u0440\u044B\\fighting-game-3-d\\assets\\scripts\\fighter\\inputdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CC5A243-CAB4-AB76-44BD-F7A8BE45C769}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fighter\\inputdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CC5A243-CAB4-AB76-44BD-F7A8BE45C769}|Assembly-CSharp.csproj|F:\\Git Hub \u043F\u0440\u0438\u043C\u0435\u0440\u044B\\fighting-game-3-d\\assets\\scripts\\fighter\\collisionbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CC5A243-CAB4-AB76-44BD-F7A8BE45C769}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fighter\\collisionbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CC5A243-CAB4-AB76-44BD-F7A8BE45C769}|Assembly-CSharp.csproj|F:\\Git Hub \u043F\u0440\u0438\u043C\u0435\u0440\u044B\\fighting-game-3-d\\assets\\scripts\\fighter\\actiondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CC5A243-CAB4-AB76-44BD-F7A8BE45C769}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fighter\\actiondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ButtonHandler.cs",
+              "DocumentMoniker": "F:\\Git Hub \u043F\u0440\u0438\u043C\u0435\u0440\u044B\\fighting-game-3-d\\Assets\\Scripts\\Menus\\ButtonHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Menus\\ButtonHandler.cs",
+              "ToolTip": "F:\\Git Hub \u043F\u0440\u0438\u043C\u0435\u0440\u044B\\fighting-game-3-d\\Assets\\Scripts\\Menus\\ButtonHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Menus\\ButtonHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T19:12:13.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Spawner.cs",
+              "DocumentMoniker": "F:\\Git Hub \u043F\u0440\u0438\u043C\u0435\u0440\u044B\\fighting-game-3-d\\Assets\\Scripts\\Spawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Spawner.cs",
+              "ToolTip": "F:\\Git Hub \u043F\u0440\u0438\u043C\u0435\u0440\u044B\\fighting-game-3-d\\Assets\\Scripts\\Spawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Spawner.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T14:11:30.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SimpleCameraController.cs",
+              "DocumentMoniker": "F:\\Git Hub \u043F\u0440\u0438\u043C\u0435\u0440\u044B\\fighting-game-3-d\\Assets\\Scripts\\SimpleCameraController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SimpleCameraController.cs",
+              "ToolTip": "F:\\Git Hub \u043F\u0440\u0438\u043C\u0435\u0440\u044B\\fighting-game-3-d\\Assets\\Scripts\\SimpleCameraController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SimpleCameraController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T14:11:17.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Shadow.cs",
+              "DocumentMoniker": "F:\\Git Hub \u043F\u0440\u0438\u043C\u0435\u0440\u044B\\fighting-game-3-d\\Assets\\Scripts\\Shadow.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Shadow.cs",
+              "ToolTip": "F:\\Git Hub \u043F\u0440\u0438\u043C\u0435\u0440\u044B\\fighting-game-3-d\\Assets\\Scripts\\Shadow.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Shadow.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T14:11:14.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Projectile.cs",
+              "DocumentMoniker": "F:\\Git Hub \u043F\u0440\u0438\u043C\u0435\u0440\u044B\\fighting-game-3-d\\Assets\\Scripts\\Projectile.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Projectile.cs",
+              "ToolTip": "F:\\Git Hub \u043F\u0440\u0438\u043C\u0435\u0440\u044B\\fighting-game-3-d\\Assets\\Scripts\\Projectile.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Projectile.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T14:06:11.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HitData.cs",
+              "DocumentMoniker": "F:\\Git Hub \u043F\u0440\u0438\u043C\u0435\u0440\u044B\\fighting-game-3-d\\Assets\\Scripts\\HitData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HitData.cs",
+              "ToolTip": "F:\\Git Hub \u043F\u0440\u0438\u043C\u0435\u0440\u044B\\fighting-game-3-d\\Assets\\Scripts\\HitData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HitData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T14:06:04.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FightManager.cs",
+              "DocumentMoniker": "F:\\Git Hub \u043F\u0440\u0438\u043C\u0435\u0440\u044B\\fighting-game-3-d\\Assets\\Scripts\\FightManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FightManager.cs",
+              "ToolTip": "F:\\Git Hub \u043F\u0440\u0438\u043C\u0435\u0440\u044B\\fighting-game-3-d\\Assets\\Scripts\\FightManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FightManager.cs",
+              "ViewState": "AQIAAGABAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T14:05:45.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DespawnAfterTime.cs",
+              "DocumentMoniker": "F:\\Git Hub \u043F\u0440\u0438\u043C\u0435\u0440\u044B\\fighting-game-3-d\\Assets\\Scripts\\DespawnAfterTime.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DespawnAfterTime.cs",
+              "ToolTip": "F:\\Git Hub \u043F\u0440\u0438\u043C\u0435\u0440\u044B\\fighting-game-3-d\\Assets\\Scripts\\DespawnAfterTime.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DespawnAfterTime.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T14:05:42.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Controls.cs",
+              "DocumentMoniker": "F:\\Git Hub \u043F\u0440\u0438\u043C\u0435\u0440\u044B\\fighting-game-3-d\\Assets\\Scripts\\Controls.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controls.cs",
+              "ToolTip": "F:\\Git Hub \u043F\u0440\u0438\u043C\u0435\u0440\u044B\\fighting-game-3-d\\Assets\\Scripts\\Controls.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Controls.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T14:05:40.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Controller2D.cs",
+              "DocumentMoniker": "F:\\Git Hub \u043F\u0440\u0438\u043C\u0435\u0440\u044B\\fighting-game-3-d\\Assets\\Scripts\\Controller2D.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Controller2D.cs",
+              "ToolTip": "F:\\Git Hub \u043F\u0440\u0438\u043C\u0435\u0440\u044B\\fighting-game-3-d\\Assets\\Scripts\\Controller2D.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Controller2D.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAAwC8AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T14:04:14.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AnimatorSpeedController.cs",
+              "DocumentMoniker": "F:\\Git Hub \u043F\u0440\u0438\u043C\u0435\u0440\u044B\\fighting-game-3-d\\Assets\\Scripts\\AnimatorSpeedController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AnimatorSpeedController.cs",
+              "ToolTip": "F:\\Git Hub \u043F\u0440\u0438\u043C\u0435\u0440\u044B\\fighting-game-3-d\\Assets\\Scripts\\AnimatorSpeedController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AnimatorSpeedController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T13:34:35.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Falling.cs",
+              "DocumentMoniker": "F:\\Git Hub \u043F\u0440\u0438\u043C\u0435\u0440\u044B\\fighting-game-3-d\\Assets\\Scripts\\NewFighter\\States\\Falling.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NewFighter\\States\\Falling.cs",
+              "ToolTip": "F:\\Git Hub \u043F\u0440\u0438\u043C\u0435\u0440\u044B\\fighting-game-3-d\\Assets\\Scripts\\NewFighter\\States\\Falling.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NewFighter\\States\\Falling.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T13:34:30.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Attacking.cs",
+              "DocumentMoniker": "F:\\Git Hub \u043F\u0440\u0438\u043C\u0435\u0440\u044B\\fighting-game-3-d\\Assets\\Scripts\\NewFighter\\States\\Attacking.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NewFighter\\States\\Attacking.cs",
+              "ToolTip": "F:\\Git Hub \u043F\u0440\u0438\u043C\u0435\u0440\u044B\\fighting-game-3-d\\Assets\\Scripts\\NewFighter\\States\\Attacking.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NewFighter\\States\\Attacking.cs",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T13:34:21.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BotMovement.cs",
+              "DocumentMoniker": "F:\\Git Hub \u043F\u0440\u0438\u043C\u0435\u0440\u044B\\fighting-game-3-d\\Assets\\Scripts\\NavMesh\\BotMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NavMesh\\BotMovement.cs",
+              "ToolTip": "F:\\Git Hub \u043F\u0440\u0438\u043C\u0435\u0440\u044B\\fighting-game-3-d\\Assets\\Scripts\\NavMesh\\BotMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NavMesh\\BotMovement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T13:34:11.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ThrowData.cs",
+              "DocumentMoniker": "F:\\Git Hub \u043F\u0440\u0438\u043C\u0435\u0440\u044B\\fighting-game-3-d\\Assets\\Scripts\\Fighter\\ThrowData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Fighter\\ThrowData.cs",
+              "ToolTip": "F:\\Git Hub \u043F\u0440\u0438\u043C\u0435\u0440\u044B\\fighting-game-3-d\\Assets\\Scripts\\Fighter\\ThrowData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Fighter\\ThrowData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T13:34:03.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "InputHelper.cs",
+              "DocumentMoniker": "F:\\Git Hub \u043F\u0440\u0438\u043C\u0435\u0440\u044B\\fighting-game-3-d\\Assets\\Scripts\\Fighter\\InputHelper.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Fighter\\InputHelper.cs",
+              "ToolTip": "F:\\Git Hub \u043F\u0440\u0438\u043C\u0435\u0440\u044B\\fighting-game-3-d\\Assets\\Scripts\\Fighter\\InputHelper.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Fighter\\InputHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T13:33:52.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "InputData.cs",
+              "DocumentMoniker": "F:\\Git Hub \u043F\u0440\u0438\u043C\u0435\u0440\u044B\\fighting-game-3-d\\Assets\\Scripts\\Fighter\\InputData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Fighter\\InputData.cs",
+              "ToolTip": "F:\\Git Hub \u043F\u0440\u0438\u043C\u0435\u0440\u044B\\fighting-game-3-d\\Assets\\Scripts\\Fighter\\InputData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Fighter\\InputData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T13:33:36.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CollisionBox.cs",
+              "DocumentMoniker": "F:\\Git Hub \u043F\u0440\u0438\u043C\u0435\u0440\u044B\\fighting-game-3-d\\Assets\\Scripts\\Fighter\\CollisionBox.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Fighter\\CollisionBox.cs",
+              "ToolTip": "F:\\Git Hub \u043F\u0440\u0438\u043C\u0435\u0440\u044B\\fighting-game-3-d\\Assets\\Scripts\\Fighter\\CollisionBox.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Fighter\\CollisionBox.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T13:33:30.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ActionData.cs",
+              "DocumentMoniker": "F:\\Git Hub \u043F\u0440\u0438\u043C\u0435\u0440\u044B\\fighting-game-3-d\\Assets\\Scripts\\Fighter\\ActionData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Fighter\\ActionData.cs",
+              "ToolTip": "F:\\Git Hub \u043F\u0440\u0438\u043C\u0435\u0440\u044B\\fighting-game-3-d\\Assets\\Scripts\\Fighter\\ActionData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Fighter\\ActionData.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAmwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T13:33:17.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CameraFollow.cs",
+              "DocumentMoniker": "F:\\Git Hub \u043F\u0440\u0438\u043C\u0435\u0440\u044B\\fighting-game-3-d\\Assets\\Scripts\\CameraFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraFollow.cs",
+              "ToolTip": "F:\\Git Hub \u043F\u0440\u0438\u043C\u0435\u0440\u044B\\fighting-game-3-d\\Assets\\Scripts\\CameraFollow.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraFollow.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T13:32:59.259Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
